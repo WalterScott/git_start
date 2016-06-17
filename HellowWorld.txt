@@ -1,2 +1,2 @@
-print("Hellow World")
-print("Welcome Home")
+print("Hello World")
+print (Hi people)
